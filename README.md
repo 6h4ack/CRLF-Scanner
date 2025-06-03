@@ -75,9 +75,9 @@ and subsequent scan progress messages when you trigger a scan.
 
 ### Active Scan
 
-Right-click any request in Burp and select **Scan CRLF Injection on Host**.  
-The extension will scan all URLs on the target host for CRLF vulnerabilities.  
-Results will be displayed as issues in Burp’s Scanner tab and output logs.
+1. Right-click any request in Burp and select **Scan CRLF Injection on Host**.
+2. The extension will scan all URLs on the target host for CRLF vulnerabilities.
+3. Results will be displayed as issues in Burp’s Scanner tab and output logs.
 
 ## Contributing
 
